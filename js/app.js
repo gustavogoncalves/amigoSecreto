@@ -38,3 +38,5 @@ function reiniciar(){
     friendDrawList = [];
     drawList.textContent = '';
 }
+
+// By Gustavo3gs
